@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://octyu.com/</loc>
+    <lastmod>2023-07-11T10:46:41+08:00</lastmod>
+  </url><url>
+    <loc>https://octyu.com/posts/</loc>
+    <lastmod>2023-07-11T10:46:41+08:00</lastmod>
+  </url><url>
+    <loc>https://octyu.com/posts/first-post/</loc>
+    <lastmod>2023-07-11T10:46:41+08:00</lastmod>
+  </url><url>
     <loc>https://octyu.com/authors/</loc>
   </url><url>
     <loc>https://octyu.com/categories/</loc>
-  </url><url>
-    <loc>https://octyu.com/</loc>
   </url><url>
     <loc>https://octyu.com/series/</loc>
   </url><url>
