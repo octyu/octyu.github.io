@@ -5,6 +5,16 @@
     <link>https://octyu.com/categories/</link>
     <description>Recent content in Categories on Octyu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://octyu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Jul 2023 19:30:33 +0800</lastBuildDate><atom:link href="https://octyu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生活</title>
+      <link>https://octyu.com/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Wed, 12 Jul 2023 19:30:33 +0800</pubDate>
+      
+      <guid>https://octyu.com/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

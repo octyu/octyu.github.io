@@ -5,6 +5,25 @@
     <link>https://octyu.com/tags/</link>
     <description>Recent content in Tags on Octyu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://octyu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Jul 2023 19:30:33 +0800</lastBuildDate><atom:link href="https://octyu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>猫</title>
+      <link>https://octyu.com/tags/%E7%8C%AB/</link>
+      <pubDate>Wed, 12 Jul 2023 19:30:33 +0800</pubDate>
+      
+      <guid>https://octyu.com/tags/%E7%8C%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>锅巴</title>
+      <link>https://octyu.com/tags/%E9%94%85%E5%B7%B4/</link>
+      <pubDate>Wed, 12 Jul 2023 19:30:33 +0800</pubDate>
+      
+      <guid>https://octyu.com/tags/%E9%94%85%E5%B7%B4/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
